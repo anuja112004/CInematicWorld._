@@ -1,0 +1,20 @@
+.goal-image {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 16px;
+}
+.th{
+    text-decoration: none;
+}
+body{
+  background-image: url(https://i.pinimg.com/736x/94/ae/ad/94aead3c9042761424d0e55fdf91b497.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+li{
+    font-size: larger;
+    font-weight: 300;
+    font-family: initial;
+ }
